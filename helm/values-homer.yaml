@@ -74,7 +74,7 @@ configmap:
         # Homepage configuration
         # See https://fontawesome.com/v5/search for icons options
 
-        title: "Demo dashboard"
+        title: "Kr1ps dashboard"
         subtitle: "Homer"
         logo: "logo.png"
         # icon: "fas fa-skull-crossbones" # Optional icon
@@ -143,15 +143,15 @@ configmap:
           - name: "Applications"
             icon: "fas fa-cloud"
             items:
-              - name: "Awesome app"
+              - name: "Home Assistant"
                 logo: "assets/tools/sample.png"
-                subtitle: "Bookmark example"
-                tag: "app"
-                keywords: "self hosted reddit"
-                url: "https://www.reddit.com/r/selfhosted/"
+                subtitle: "Kr1ps Home assistant"
+                tag: "ha"
+                keywords: "self hosted ha"
+                url: "https://haos.kr1ps.com/dwains-dashboard/home"
                 target: "_blank" # optional html a tag target attribute
-              - name: "Another one"
+              - name: "Traefik"
                 logo: "assets/tools/sample2.png"
-                subtitle: "Another application"
-                tag: "app"
-                url: "#"
+                subtitle: "Traefik proxy for docker services"
+                tag: "fw"
+                url: "https://haos.kr1ps.com/dwains-dashboard/home"
