@@ -3,6 +3,6 @@ name: homer
 type: application
 version: 0.2.0
 dependencies:
-- name: gabe565/homer
+- name: homer
   version: 0.2.0
   repository: https://charts.gabe565.com
