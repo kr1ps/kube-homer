@@ -3,6 +3,6 @@ name: homer
 type: application
 version: 0.2.0
 dependencies:
-- name: homer
+- name: gabe565/homer
   version: 0.2.0
-  repository: https://artifacthub.io/packages/helm/gabe565/homer
+  repository: https://charts.gabe565.com
