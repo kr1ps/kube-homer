@@ -1,0 +1,6 @@
+dependencies:
+- name: homer
+  repository: https://charts.gabe565.com
+  version: 0.2.0
+digest: sha256:5a2b66a7a3caf6f71505d7188d68f244d2effaa76fa1e25fca89d0bf477e5419
+generated: "2023-01-25T10:00:44.499161+01:00"
